@@ -1,0 +1,15 @@
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\bin\Debug\net8.0\web-client.exe
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\bin\Debug\net8.0\web-client.deps.json
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\bin\Debug\net8.0\web-client.runtimeconfig.json
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\bin\Debug\net8.0\web-client.dll
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\bin\Debug\net8.0\web-client.pdb
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.AssemblyInfoInputs.cache
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.AssemblyInfo.cs
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.csproj.CoreCompileInputs.cache
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.sourcelink.json
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.dll
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\refint\web-client.dll
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.pdb
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\web-client.genruntimeconfig.cache
+C:\Users\techn\Desktop\PROJECTS\DOTNET\JWT\web-client\web-client\obj\Debug\net8.0\ref\web-client.dll
