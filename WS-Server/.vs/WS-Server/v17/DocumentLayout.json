@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diya Patel\\Desktop\\JWT\\WS-Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E0B661-F04B-4EDF-B245-92B834B21AD2}|WS-Client\\WS-Client.csproj|c:\\users\\diya patel\\desktop\\jwt\\ws-server\\ws-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E0B661-F04B-4EDF-B245-92B834B21AD2}|WS-Client\\WS-Client.csproj|solutionrelative:ws-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24D5C0-BCA7-41A1-9995-656DD35835D6}|WS-Server\\WS-Server.csproj|c:\\users\\diya patel\\desktop\\jwt\\ws-server\\ws-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F24D5C0-BCA7-41A1-9995-656DD35835D6}|WS-Server\\WS-Server.csproj|solutionrelative:ws-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\WS-Server\\WS-Client\\Program.cs",
+              "RelativeDocumentMoniker": "WS-Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\WS-Server\\WS-Client\\Program.cs",
+              "RelativeToolTip": "WS-Client\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:20:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diya Patel\\Desktop\\JWT\\WS-Server\\WS-Server\\Program.cs",
+              "RelativeDocumentMoniker": "WS-Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Diya Patel\\Desktop\\JWT\\WS-Server\\WS-Server\\Program.cs",
+              "RelativeToolTip": "WS-Server\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:45:39.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

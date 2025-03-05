@@ -1,0 +1,14 @@
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\bin\Debug\net8.0\WS-Client.exe
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\bin\Debug\net8.0\WS-Client.deps.json
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\bin\Debug\net8.0\WS-Client.runtimeconfig.json
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\bin\Debug\net8.0\WS-Client.dll
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\bin\Debug\net8.0\WS-Client.pdb
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\WS-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\WS-Client.AssemblyInfoInputs.cache
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\WS-Client.AssemblyInfo.cs
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\WS-Client.csproj.CoreCompileInputs.cache
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\WS-Client.dll
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\refint\WS-Client.dll
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\WS-Client.pdb
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\WS-Client.genruntimeconfig.cache
+C:\Users\Diya Patel\Desktop\JWT_Identity_Role_Claim\WS-Server\WS-Client\obj\Debug\net8.0\ref\WS-Client.dll
